@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RileyRoverEV3Android</string>
+    <string name="bt_failed">Could not connect to given mac address</string>
+    <string name="bt_disabled">Please enable Bluetooth</string>
+</resources>
